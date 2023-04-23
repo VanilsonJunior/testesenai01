@@ -1,5 +1,7 @@
 # testesenai01
+#repositorio inicial
+#atualizando o teste do git com github
 
-Readme de exemplo.
+Readme exemplo:
 
-lembrei do comando: git commit
+Lembrei do comando: git commit
